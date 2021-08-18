@@ -1945,7 +1945,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+		border-radius: 50%;
 		}
 
 			.image.avatar:before {
